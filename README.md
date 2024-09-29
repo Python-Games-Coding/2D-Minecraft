@@ -21,4 +21,12 @@ Also, there are a variety of debug controls that are in the game:
 - F6: Change framerate
 - F7: Enter "creative mode". You are invincible, can fly, and can place down whatever tiles you want to (scroll the mouse to change the tile selected)
 - F8: Advance time of day
-- F11: Enter/exit fullscreen (if the window is the wrong size, you may have to exit fullscreen to get it to work correctly)
+- F11: Enter/exit fullscreen (you need to exit fullscreen to get it to work correctly)
+
+## Preview version
+
+1. Update Flat World
+2. Update Bonus Chest
+3. Update Background
+4. Add New Items/Blocks
+
