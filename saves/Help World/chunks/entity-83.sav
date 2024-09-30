@@ -4,20 +4,26 @@ TileEntity
 Entity
 
 New Entity
-type = 3 
-xpos = -1320.659912
-ypos = 69.750000
-width = 0.500000
-height = 0.500000
-mass = 0.750000
-itemId = 36
-itemTags = 0
-itemCount = 1
-timeLeft = 17938
+type = 2 
+xpos = -1318.717163
+ypos = 66.175003
+width = 1.500000
+height = 1.500000
+mass = 1.000000
+mobType = 4
+
+New Entity
+type = 2 
+xpos = -1319.673218
+ypos = 67.250000
+width = 1.500000
+height = 1.500000
+mass = 1.000000
+mobType = 4
 
 New Entity
 type = 3 
-xpos = -1320.739868
+xpos = -1320.250000
 ypos = 69.750000
 width = 0.500000
 height = 0.500000
@@ -25,11 +31,11 @@ mass = 0.750000
 itemId = 36
 itemTags = 0
 itemCount = 1
-timeLeft = 17939
+timeLeft = 11025
 
 New Entity
 type = 3 
-xpos = -1320.859863
+xpos = -1321.076538
 ypos = 69.750000
 width = 0.500000
 height = 0.500000
@@ -37,4 +43,61 @@ mass = 0.750000
 itemId = 36
 itemTags = 0
 itemCount = 1
-timeLeft = 17940
+timeLeft = 11026
+
+New Entity
+type = 3 
+xpos = -1321.994873
+ypos = 70.750000
+width = 0.500000
+height = 0.500000
+mass = 0.750000
+itemId = 36
+itemTags = 0
+itemCount = 1
+timeLeft = 11027
+
+New Entity
+type = 3 
+xpos = -1314.484863
+ypos = 62.750000
+width = 0.500000
+height = 0.500000
+mass = 0.750000
+itemId = 1076
+itemTags = 0
+itemCount = 1
+timeLeft = 11097
+
+New Entity
+type = 3 
+xpos = -1316.307861
+ypos = 64.750000
+width = 0.500000
+height = 0.500000
+mass = 0.750000
+itemId = 34
+itemTags = 0
+itemCount = 1
+timeLeft = 11540
+
+New Entity
+type = 3 
+xpos = -1313.211914
+ypos = 61.750000
+width = 0.500000
+height = 0.500000
+mass = 0.750000
+itemId = 1076
+itemTags = 0
+itemCount = 1
+timeLeft = 12567
+
+New Entity
+type = 2 
+xpos = -1321.836060
+ypos = 69.337502
+width = 1.625000
+height = 1.375000
+mass = 1.000000
+mobType = 3

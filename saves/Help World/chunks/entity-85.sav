@@ -5,9 +5,27 @@ Entity
 
 New Entity
 type = 2 
-xpos = -1351.268921
-ypos = 60.250000
+xpos = -1352.282837
+ypos = 67.175003
 width = 1.500000
 height = 1.500000
 mass = 1.000000
 mobType = 4
+
+New Entity
+type = 2 
+xpos = -1348.086792
+ypos = 70.250000
+width = 1.500000
+height = 1.500000
+mass = 1.000000
+mobType = 4
+
+New Entity
+type = 2 
+xpos = -1358.812500
+ypos = 62.312500
+width = 1.625000
+height = 1.375000
+mass = 1.000000
+mobType = 3

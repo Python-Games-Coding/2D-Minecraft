@@ -2,3 +2,27 @@
 TileEntity
 
 Entity
+
+New Entity
+type = 3 
+xpos = -1307.947754
+ypos = 51.750000
+width = 0.500000
+height = 0.500000
+mass = 0.750000
+itemId = 34
+itemTags = 0
+itemCount = 1
+timeLeft = 11292
+
+New Entity
+type = 3 
+xpos = -1312.715454
+ypos = 62.750000
+width = 0.500000
+height = 0.500000
+mass = 0.750000
+itemId = 34
+itemTags = 0
+itemCount = 1
+timeLeft = 15094
