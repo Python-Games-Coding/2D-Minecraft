@@ -751,3 +751,14 @@ requiredToolToBreak = 2
 requiredToolStrength = 0.0
 hardness = 1.5
 soundEvent = 5
+
+-- Block Of Cheese
+New Block = 106
+collisionType = 0
+lightIndex = 1
+blockUpdate = 10
+itemDrop = 2007
+randomRotation = 2
+requiredToolToBreak = 3
+hardness = 1.0
+soundEvent = 2

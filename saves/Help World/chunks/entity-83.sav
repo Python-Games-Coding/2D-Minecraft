@@ -1,0 +1,40 @@
+
+TileEntity
+
+Entity
+
+New Entity
+type = 3 
+xpos = -1320.659912
+ypos = 69.750000
+width = 0.500000
+height = 0.500000
+mass = 0.750000
+itemId = 36
+itemTags = 0
+itemCount = 1
+timeLeft = 17938
+
+New Entity
+type = 3 
+xpos = -1320.739868
+ypos = 69.750000
+width = 0.500000
+height = 0.500000
+mass = 0.750000
+itemId = 36
+itemTags = 0
+itemCount = 1
+timeLeft = 17939
+
+New Entity
+type = 3 
+xpos = -1320.859863
+ypos = 69.750000
+width = 0.500000
+height = 0.500000
+mass = 0.750000
+itemId = 36
+itemTags = 0
+itemCount = 1
+timeLeft = 17940

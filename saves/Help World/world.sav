@@ -1,0 +1,7 @@
+name = Help World
+versionNumber = 1.100000
+seed = 10955
+gameMode = 1
+gameTime = 14957
+doDaylightCycle = 1
+doMobSpawning = 1

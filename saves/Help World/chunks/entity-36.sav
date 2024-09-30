@@ -1,0 +1,22 @@
+
+TileEntity
+
+Entity
+
+New Entity
+type = 2 
+xpos = -562.812500
+ypos = 62.897499
+width = 1.625000
+height = 1.375000
+mass = 1.000000
+mobType = 3
+
+New Entity
+type = 2 
+xpos = -572.720581
+ypos = 67.312500
+width = 1.625000
+height = 1.375000
+mass = 1.000000
+mobType = 3

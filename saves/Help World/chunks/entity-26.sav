@@ -1,0 +1,16 @@
+
+TileEntity
+
+Entity
+
+New Entity
+type = 3 
+xpos = -407.250000
+ypos = 57.750000
+width = 0.500000
+height = 0.500000
+mass = 0.750000
+itemId = 48
+itemTags = 0
+itemCount = 1
+timeLeft = 14707

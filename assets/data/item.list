@@ -743,3 +743,10 @@ name = Cobblestone Wall
 -- Mossy Cobblestone Wall
 New Item = 2006
 name = Mossy Cobblestone Wall
+
+-- Cheese
+New Item = 2007
+name = Cheese
+stackSize = 64
+foodPoints = 5
+foodSaturation = 5.0

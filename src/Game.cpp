@@ -1,4 +1,5 @@
 #include "../hdr/Game.hpp"
+#include <iostream>
 
 // Globals
 
@@ -7,16 +8,18 @@ GameMode gameMode = GameMode::Survival;
 
 namespace game {
 	const std::string gamePropertiesFileName = "gameProperties.sav";
-
+	std::cout << "Starting Game" << std::endl;
 	gs::util::Clock timer;
 
 	void create() {
+		std::cout << "Creating Game" << std::endl;
 #ifndef mDebug
 		FreeConsole(); 
 #endif
 		srand(time(0));
 		menuState.setState(static_cast<int>(MenuState::LoadingScreen));
 		engine::render::window::open(true);
+		std::cout << "Opening Window" << std::endl;
 		engine::input::initKeys();
 		loadGameProperties(); 
 		engine::render::loadAssets();
